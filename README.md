@@ -49,3 +49,7 @@ Comput 2023, 19 (8), 2389-2409.
 
 4. Brosey, C. A.; Tainer, J. A., Evolving SAXS versatility: solution X-ray scattering for macromolecular architecture, functional landscapes, and integrative structural biology. Curr. Opin. Struct. Biol. 2019, 58, 197-213.
 
+
+## Contributors
+
+* Thomas-Otavio Peulen
